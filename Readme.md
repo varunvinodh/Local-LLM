@@ -1,60 +1,19 @@
-\# Local LLM Image Gen Demo
+# Local LLM
 
+Welcome to the **Local LLM** repository!  
 
-
-This repository contains a Jupyter Notebook demonstrating how to generate images using \*\*Stable Diffusion\*\* with the Hugging Face `diffusers` library.  
-
-It shows how to load a pre-trained model, run it locally, generate images from text prompts, and save the outputs.
-
-
+This repository serves as a central hub for my experiments and projects with **Local Large Language Models (LLMs)**. Each subfolder contains individual projects demonstrating different applications of LLMs, including text generation, image generation, and other AI-powered experiments.
 
 ---
 
+## 🚀 Purpose
 
-
-\## 🚀 Features
-
-
-
-\- Load a Stable Diffusion model from \*\*Hugging Face\*\* or locally.
-
-\- Generate photorealistic images from text prompts.
-
-\- Supports CPU and GPU (if available).
-
-\- Save generated images to disk.
-
-\- Optionally generate multiple images per prompt.
-
-
+- Keep all my local LLM experiments organized in one place.
+- Track progress across different LLM projects.
+- Share notebooks, code, and outputs for reference or collaboration.
 
 ---
 
+## 📝 Usage
 
-
-\## 📦 Requirements
-
-
-
-\- Python 3.10 or higher
-
-\- `torch==2.5.1+cu121`
-
-\- `diffusers==0.35.2`
-
-\- `huggingface\_hub==0.36.0`
-
-\- `Pillow==12.0.0`
-
-
-
-Install all dependencies using:
-
-
-
-```bash
-
-pip install -r requirements.txt
-
-
-
+Each project folder contains its own README and instructions.  
