@@ -17,3 +17,6 @@ This repository serves as a central hub for my experiments and projects with **L
 ## 📝 Usage
 
 Each project folder contains its own README and instructions.  
+
+
+**Note:** Due to the large file sizes, LLM model weights are not included in this repository. Instructions for downloading models from Hugging Face are provided directly in the code.
